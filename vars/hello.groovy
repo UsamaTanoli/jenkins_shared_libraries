@@ -1,3 +1,3 @@
-def greeting(){
-  echo "Hello! from Usama Tanoli"
+def call() {
+    echo "Hello! from Usama Tanoli"
 }
